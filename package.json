@@ -1,0 +1,12 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Repaso de las versiones de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy Sejas Arze <eddy.sejas.arze.03@gmail.com>",
+  "license": "MIT",
+  "keywords": []
+}
